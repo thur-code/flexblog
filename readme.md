@@ -1,4 +1,4 @@
-🔗 [Acesse o projeto online aqui](https://thur-code.github.io/flexblog-origamid/)
+🔗 [Acesse o projeto online aqui](https://thur-code.github.io/flexblog/)
 
 ---
 
